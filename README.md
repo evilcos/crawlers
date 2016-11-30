@@ -3,7 +3,7 @@ Some crawlers u know it:-)
 
 # crawl3 run help
 
-1. 按照官方文档安装 Scrapyhttps://doc.scrapy.org/en/1.2/intro/install.html
+1. 按照官方文档安装 Scrapy https://doc.scrapy.org/en/1.2/intro/install.html
 
 2. git clone https://github.com/evilcos/crawlers
 
